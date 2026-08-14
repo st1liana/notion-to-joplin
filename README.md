@@ -33,3 +33,7 @@ python3 notion-to-joplin.py -f b25c8352-f87b-4b5b-ce0a-61d09c5bd81b_Export-9e0c6
 You can now import the folder `import to joplin` to Joplin (File > Import > MD - Markdown directory).
 
 Done!
+
+## Contributing
+
+Contributions are welcome! Please see the [contribution guidelines](https://git.andros.dev/andros/contribute) for instructions on how to submit issues or pull requests.
